@@ -1,4 +1,4 @@
-# aseprite-繁體中文擴展
+# aseprite-繁體中文擴展 v1.2.9
 An extension to add Tradisional Chinese for Aseprite.
 
 此擴展將為你的 Aseprite 加入繁體中文選項。
