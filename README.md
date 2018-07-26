@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 ﻿# aseprite-繁體中文擴展 v1.2.9
+=======
+# aseprite-繁體中文擴展 v1.2.9
+>>>>>>> 97200f27d44fae3001e8646f809a110c970419e7
 An extension to add Traditional Chinese for Aseprite.
 
 此擴展將為你的 Aseprite 加入繁體中文選項。
 
 # 安裝
+<<<<<<< HEAD
 1. 下載 [aseprite語言-繁體.zip](https://raw.githubusercontent.com/chongx1an/aseprite-TraditionalChineseExtension/master/tChinese-WebReference/aseprite%E8%AA%9E%E8%A8%80-%E7%B9%81%E9%AB%94.zip)
+=======
+1. 下載 [aseprite語言-繁體.zip](https://github.com/chongx1an/aseprite-TraditionalChineseExtension/archive/master.zip)
+>>>>>>> 97200f27d44fae3001e8646f809a110c970419e7
 
 2. 打開你的 Aseprite, 在菜單欄點擊 Edit >Preferences...
 
