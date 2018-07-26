@@ -1,0 +1,16 @@
+{
+  "name": "aseprite-language-tChinese",
+  "displayName": "Tradisional Chinese",
+  "version": "1.2.9",
+  "author": { "name": "chongx1an", "email": "ch0ngx1an@hotmail.com", "url": "https://github.com/chongx1an/Aseprite-TradisionalChineseExtension" },
+  "publisher": "Aseprite",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      { "id": "tChinese", "path": "./tChinese.ini" }
+    ]
+  }
+}
