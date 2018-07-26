@@ -4,7 +4,7 @@ An extension to add Tradisional Chinese for Aseprite.
 此擴展將為你的 Aseprite 加入繁體中文選項。
 
 # 安裝
-1. 下載 [aseprite語言-繁體.zip](https: //github.com/chongx1an/aseprite-TradisionalChineseExtension/archive/master.zip)
+1. 下載 [aseprite語言-繁體.zip](https://github.com/chongx1an/aseprite-TradisionalChineseExtension/archive/master.zip)
 
 2. 打開你的 Aseprite, 在菜單欄點擊 Edit >Preferences...
 
