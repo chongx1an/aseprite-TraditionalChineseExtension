@@ -22,7 +22,7 @@ An extension to add Tradisional Chinese for Aseprite.
   
 7. 退出 Aseprite 後，重新開啟
 
-PS:此擴展配合 [像素中文主題](https://raw.githubusercontent.com/J-11/Aseprite-Simplified-Chinese/master/Formal/%E4%B8%BB%E9%A2%98-%E5%83%8F%E7%B4%A0%E5%AD%97%E4%BD%93aseprite-theme-pixel.zip)最佳，主題安裝方法與擴展安裝方法一樣。
+PS:此擴展配合 [像素中文主題](https://raw.githubusercontent.com/J-11/Aseprite-Simplified-Chinese/master/Formal/%E4%B8%BB%E9%A2%98-%E5%83%8F%E7%B4%A0%E5%AD%97%E4%BD%93aseprite-theme-pixel.zip) 最佳，主題安裝方法與擴展安裝方法一樣。
 
 該 “像素中文主題” 轉載自 [J-11的简体中文汉化](https://github.com/J-11/Aseprite-Simplified-Chinese)， 更詳細的說明可以點擊進去了解
 
